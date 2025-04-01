@@ -1,4 +1,4 @@
-# Fire Detection System 
+# Fire Detection System 🔥🔥🧯🧯
 
 ## Overview
 
@@ -17,11 +17,11 @@ This Fire Detection System is an IoT-based project designed to detect fires in a
 - **Hardware**:
   - Simulino Uno (microcontroller..a specific type of arduino uno for digital voltmeter applications)
   - MQ-2 Smoke Sensor
-  - Flame sensor
-  - LCD (for display)
-  - Buzzer (for local alert)
-  - DC motor for water sprinkling system
-  - GSM Module (for SMS alerts)
+  - Flame sensor 🔥
+  - LCD (for display) 📺
+  - Buzzer (for local alert) 
+  - DC motor for water sprinkling system 
+  - GSM Module (for SMS alerts) 📶📲
 
 - **Software**:
   - Arduino IDE
