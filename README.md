@@ -39,7 +39,7 @@ take a look at the connections..
 
 ## Simulation
 
-https://drive.google.com/file/d/1faVwqxSKRMm8mP3MQPg2SaiiSc3pG40O/view?usp=drive_link
+![Screenshot (46)](https://github.com/user-attachments/assets/5dee7852-377f-4f25-a000-296e5fcad477)
 
 
 
